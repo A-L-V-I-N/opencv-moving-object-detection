@@ -18,3 +18,8 @@ Detects moving objects in a video feed. If said motion is large enough, and rece
 - python3 code.py
 
 
+## **Demo**
+
+![Screenshot from 2021-06-21 11-59-03](https://user-images.githubusercontent.com/72436408/122717139-d2dcc100-d288-11eb-9fa3-6239d039a079.png)
+
+
