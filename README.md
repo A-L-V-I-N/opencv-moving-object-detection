@@ -10,5 +10,11 @@ Detects moving objects in a video feed. If said motion is large enough, and rece
 - wheel
 - matplotlib
 
+## **Setup & Quick Start**
+
+- git clone https://github.com/A-L-V-I-N/opencv-moving-object-detection.git
+- cd opencv-moving-object-detection
+- pip install -r requirements.txt
+- python3 code.py
 
 
