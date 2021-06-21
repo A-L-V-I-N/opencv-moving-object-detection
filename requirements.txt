@@ -1,0 +1,6 @@
+numpy
+wheel
+matplotlib
+opencv-python
+imutils
+scipy
